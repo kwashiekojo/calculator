@@ -1,0 +1,30 @@
+.boss {
+	text-align: center;
+}
+
+.light-grey {
+	background-color: lightgrey;
+	color: white;
+}
+
+.bigheader {
+	text-align: center;
+	margin-top: 5rem;
+}
+
+.small {
+	padding: 10px 3px;
+	border-right: solid 1px grey;
+	border-bottom: solid 1px grey;
+}
+
+.grey {
+	color: white;
+	background-color: grey;
+	text-align: right;
+}
+
+.orange {
+	background-color: orange;
+	color: white;
+}
